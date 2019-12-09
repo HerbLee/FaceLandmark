@@ -1,7 +1,7 @@
 # FaceLandmark
 格式化 HyperLandmark的定位点
 
-![](https://www.jitpack.io/v/HerbLee/FaceLandmark.svg)](https://www.jitpack.io/#HerbLee/FaceLandmark)
+[![](https://www.jitpack.io/v/HerbLee/FaceLandmark.svg)](https://www.jitpack.io/#HerbLee/FaceLandmark)
 
 
 
