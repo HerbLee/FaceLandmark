@@ -6,6 +6,8 @@
 
 
 ## gradle 使用
+
+```
 allprojects {
 		repositories {
 			...
@@ -16,8 +18,9 @@ allprojects {
 dependencies {
 	        implementation 'com.github.HerbLee:FaceLandmark:1.0.1'
 	}
-
+```
 ## maven
+```
 <repositories>
 		<repository>
 		    <id>jitpack.io</id>
@@ -33,3 +36,4 @@ dependencies {
 	</dependency>
   
   
+```
