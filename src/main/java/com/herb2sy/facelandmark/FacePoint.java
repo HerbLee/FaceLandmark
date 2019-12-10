@@ -12,11 +12,11 @@ package com.herb2sy.facelandmark;
 public class FacePoint {
 
     private int oriIndex;
-    private int x;
-    private int y;
+    private float x;
+    private float y;
 
 
-    public FacePoint(int oriIndex, int x, int y) {
+    public FacePoint(int oriIndex, float x, float y) {
         this.oriIndex = oriIndex;
         this.x = x;
         this.y = y;
@@ -26,15 +26,15 @@ public class FacePoint {
         return oriIndex;
     }
 
-    public int getX() {
+    public float getX() {
         return x;
     }
 
-    public int getY() {
+    public float getY() {
         return y;
     }
 
-    public FacePoint(int x, int y) {
+    public FacePoint(float x, float y) {
         this.x = x;
         this.y = y;
     }
